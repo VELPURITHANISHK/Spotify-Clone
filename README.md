@@ -16,15 +16,4 @@ CSS3 (Flexbox, Grid, Media Queries)
 
 *No frameworks or JavaScript used
 
-*This is a static clone: no JavaScript or backend functionality.
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
+*This is a static clone: no JavaScript or backend functionality
